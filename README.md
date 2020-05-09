@@ -8,3 +8,8 @@ This repository include:
  4. Model Ablation Studies:
     a. Exlplicit Use of l2 norm for model weights
     b. Effect of dropout 
+
+
+Validation Study for the Models:
+
+![](images/combine.png)
