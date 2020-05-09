@@ -7,8 +7,11 @@ This repository include:
  3. Validation for the model
  4. Model Ablation Studies:
     a. Exlplicit Use of l2 norm for model weights
-    b. Effect of dropout 
+    b. Effect of dropout
+    
+Dependency: Python3
 
+Simply run the git_main.ipynb
 
 Validation Study for the Models:
 
