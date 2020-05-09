@@ -17,6 +17,11 @@ Dependency: Python3
 
 ![](images/combine.png)
 
+## Validation for new model currently developing
+![](images/new_approach.png)
+
+Will upload the code when the results are comparable
+
 
 Final: Model with explicit l2 loss
 no_l2 : Model without explicit l2 loss
